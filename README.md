@@ -1,4 +1,4 @@
-## Hi there 👋
+## This my progrmation proyect fase 3 👋
 
 <!--
 **KennethPolanco/KennethPolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
